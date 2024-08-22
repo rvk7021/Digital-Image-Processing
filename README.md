@@ -44,6 +44,8 @@ Dive in to explore the concepts, enhance your skills, and understand the power o
 ├── 📁 Assignments
 │   ├── Assignment1 - RGB Layer Extraction
 │   └── Assignment2 - Histogram Equalization
+│   └── Assignment3 - color image to grayscale
+│   └── Assignment4 - Bit Manipulation of image
 ├── 📁 Projects
 │   └── ...
 └── README.md
